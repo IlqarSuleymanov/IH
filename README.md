@@ -7,7 +7,10 @@ IH Project - README
 
 To install the IH project, run the following command in your terminal:
 
-```bash
+git clone https://github.com/IlqarSuleymanov/IH.git
+
+Or with installing :
+
 ./install.sh
 
 
